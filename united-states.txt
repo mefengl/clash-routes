@@ -1,5 +1,6 @@
 payload:
   - '+.openai.com'
+  - 'chatgpt.com'
   - '+.sentry.io'
   - '+.pay.openai.com'
   - '+.identrust.com'
