@@ -29,3 +29,5 @@ payload:
   - '+.googleapis.com'
   - '+.intercomcdn.com'
   - '+.generativelanguage.googleapis.com'
+  - '+.lambdalabs.com'
+  - '+.lambda.chat'
