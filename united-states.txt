@@ -31,3 +31,4 @@ payload:
   - '+.generativelanguage.googleapis.com'
   - '+.lambdalabs.com'
   - '+.lambda.chat'
+  - '+.cerebras.ai'
