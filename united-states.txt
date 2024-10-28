@@ -32,3 +32,4 @@ payload:
   - '+.lambdalabs.com'
   - '+.lambda.chat'
   - '+.cerebras.ai'
+  - '+.notebooklm.google'
