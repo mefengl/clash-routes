@@ -33,3 +33,4 @@ payload:
   - '+.lambda.chat'
   - '+.cerebras.ai'
   - '+.notebooklm.google'
+  - '+.aistudio.google.com'
