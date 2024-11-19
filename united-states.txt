@@ -34,3 +34,4 @@ payload:
   - '+.cerebras.ai'
   - '+.notebooklm.google'
   - '+.aistudio.google.com'
+  - '+.api.individual.githubcopilot.com'
