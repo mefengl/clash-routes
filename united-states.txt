@@ -34,5 +34,5 @@ payload:
   - '+.generativelanguage.googleapis.com'
   - '+.google.com'
   - '+.bard.google.com'
-  - '+.notebooklm.google.com'
   - '+.aistudio.google.com'
+  - '+.notebooklm.google.com'
