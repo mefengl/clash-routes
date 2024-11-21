@@ -16,6 +16,7 @@ payload:
   - '+.invoice.stripe.com'
   - '+.poe.com'
   - '+.anthropic.com'
+  - '+.privacy.anthropic.com'
   - '+.claude.ai'
   - '+.forefront.ai'
   - '+.auth0.com'
