@@ -37,3 +37,5 @@ payload:
   - '+.bard.google.com'
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
+  - '+.withgoogle.com'
+  - '+.aitestkitchen.withgoogle.com'
