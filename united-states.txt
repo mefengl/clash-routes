@@ -31,6 +31,7 @@ payload:
   - '+.lambdalabs.com'
   - '+.lambda.chat'
   - '+.cerebras.ai'
+  - '+.api.githubcopilot.com'
   - '+.api.individual.githubcopilot.com'
   - '+.generativelanguage.googleapis.com'
   - '+.bard.google.com'
