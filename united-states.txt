@@ -34,6 +34,7 @@ payload:
   - '+.console.groq.com'
   - '+.cerebras.ai'
   - '+.api.fireworks.ai'
+  - '+.direct.fireworks.ai'
   - '+.api.githubcopilot.com'
   - '+.api.individual.githubcopilot.com'
   - '+.generativelanguage.googleapis.com'
