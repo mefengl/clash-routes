@@ -41,3 +41,4 @@ payload:
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
   - '+.aitestkitchen.withgoogle.com'
+  - '+.scaleway.com'
