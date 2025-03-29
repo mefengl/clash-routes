@@ -37,6 +37,7 @@ payload:
   - '+.direct.fireworks.ai'
   - '+.githubcopilot.com'
   - '+.generativelanguage.googleapis.com'
+  - '+.gemini.google.com'
   - '+.bard.google.com'
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
