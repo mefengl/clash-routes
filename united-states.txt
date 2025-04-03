@@ -18,3 +18,4 @@ payload:
   - '+.api.groq.com'
   - '+.console.groq.com'
   - '+.cerebras.ai'
+  - '+.llm.zed.dev'
