@@ -9,6 +9,7 @@ payload:
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
   - '+.aitestkitchen.withgoogle.com'
+  - '+.ai.google.dev'
 
   - 'openaiapi-site.azureedge.net'
   - '+.anthropic.com'
