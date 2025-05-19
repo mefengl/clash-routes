@@ -21,3 +21,5 @@ payload:
   - '+.console.groq.com'
   - '+.cerebras.ai'
   - '+.llm.zed.dev'
+
+  - '+.meta.com'
