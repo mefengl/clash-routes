@@ -9,6 +9,7 @@ payload:
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
   - '+.withgoogle.com'
+  - '+.labs.google.com'
   - '+.ai.google.dev'
   - '+.clients6.google.com'
 
