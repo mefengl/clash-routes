@@ -8,7 +8,7 @@ payload:
   - '+.bard.google.com'
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
-  - '+.aitestkitchen.withgoogle.com'
+  - '+.withgoogle.com'
   - '+.ai.google.dev'
   - '+.clients6.google.com'
 
