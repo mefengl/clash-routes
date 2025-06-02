@@ -14,10 +14,6 @@ payload:
   - '+.clients6.google.com'
 
   - 'openaiapi-site.azureedge.net'
-  - '+.anthropic.com'
-  - '+.privacy.anthropic.com'
-  - '+.claude.ai'
-  - '+.claudeusercontent.com'
   - '+.api.groq.com'
   - '+.console.groq.com'
   - '+.cerebras.ai'
