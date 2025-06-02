@@ -1,5 +1,4 @@
 payload:
   - '+.anthropic.com'
-  - '+.privacy.anthropic.com'
   - '+.claude.ai'
   - '+.claudeusercontent.com'
