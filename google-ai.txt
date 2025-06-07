@@ -1,0 +1,10 @@
+payload:
+  - '+.googleapis.com'
+  - '+.gemini.google.com'
+  - '+.bard.google.com'
+  - '+.aistudio.google.com'
+  - '+.notebooklm.google.com'
+  - '+.withgoogle.com'
+  - '+.labs.google'
+  - '+.ai.google.dev'
+  - '+.clients6.google.com'
