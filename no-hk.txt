@@ -4,6 +4,8 @@ payload:
   - '+.oaiusercontent.com'
   - '+.oaistatic.com'
   - '+.generativelanguage.googleapis.com'
+  - '+.developerprofiles-pa.googleapis.com'
+  - '+.play.googleapis.com'
   - '+.gemini.google.com'
   - '+.bard.google.com'
   - '+.aistudio.google.com'
