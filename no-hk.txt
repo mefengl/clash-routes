@@ -1,7 +1,5 @@
 payload:
-  - '+.generativelanguage.googleapis.com'
-  - '+.developerprofiles-pa.googleapis.com'
-  - '+.play.googleapis.com'
+  - '+.googleapis.com'
   - '+.gemini.google.com'
   - '+.bard.google.com'
   - '+.aistudio.google.com'
