@@ -6,3 +6,4 @@ payload:
 
   - '+.meta.com'
   - '+.oculus.com'
+  - '+.diabrowser.engineering'
