@@ -4,6 +4,7 @@ payload:
   - '+.bard.google.com'
   - '+.aistudio.google.com'
   - '+.notebooklm.google.com'
+  - '+.jules.google.com'
   - '+.withgoogle.com'
   - '+.labs.google'
   - '+.ai.google.dev'
