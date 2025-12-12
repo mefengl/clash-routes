@@ -9,3 +9,5 @@ payload:
   - '+.labs.google'
   - '+.ai.google.dev'
   - '+.clients6.google.com'
+  - '+.generativelanguage.googleapis.com'
+
